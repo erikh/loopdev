@@ -1,3 +1,5 @@
+**NOTE:** this package is no longer needed; please use https://github.com/stratis-storage/loopdev-3. It will remain read-only for those that depend on it.
+
 [![Build Status](https://github.com/mdaffin/loopdev/actions/workflows/ci.yml/badge.svg)](https://github.com/mdaffin/loopdev/actions/workflows/ci.yml)
 [![crates.io](https://img.shields.io/crates/v/loopdev.svg)](https://crates.io/crates/loopdev)
 
