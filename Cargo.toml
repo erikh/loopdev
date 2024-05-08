@@ -10,6 +10,9 @@ readme = "README.md"
 keywords = ["loop", "losetup"]
 edition = "2021"
 
+[lib]
+name = "loopdev"
+
 [features]
 direct_io = []
 
